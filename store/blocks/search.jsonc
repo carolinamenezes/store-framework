@@ -20,5 +20,10 @@
       "filter-navigator.v3",
       "search-fetch-more"
     ]
+  },
+  "search-not-found-layout":{
+    "children":[
+      "not-found"
+    ]
   }
  }
