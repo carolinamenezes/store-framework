@@ -87,7 +87,7 @@
     },
     "rich-text#home1": {
         "props": {
-            "text": "Áre do conteúdo da tab-list.item com  tabId = majorAppliances",
+            "text": "Área do conteúdo da tab-list.item com  tabId = majorAppliances",
             "textPosition": "CENTER",
             "font": "t-heading-3"
         }
